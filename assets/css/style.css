@@ -694,7 +694,9 @@ form {
   font-weight: bold;
   margin-bottom: 30px;
 }
-
+.form img {
+  width: 10px;
+}
 input,
 textarea {
   width: 50%;
